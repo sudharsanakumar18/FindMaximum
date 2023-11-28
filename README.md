@@ -37,6 +37,11 @@ def max_marks(list1):
 ![output](./img/max_marks1.jpg) 
 
 ## Output:
+![image](https://raw.githubusercontent.com/sudharsanakumar18/FindMaximum/main/python%203a%201.png)
+
+![image](https://raw.githubusercontent.com/sudharsanakumar18/FindMaximum/main/python%203a%202.png)
+
+![image](https://raw.githubusercontent.com/sudharsanakumar18/FindMaximum/main/python%203a%203.png)
 
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
