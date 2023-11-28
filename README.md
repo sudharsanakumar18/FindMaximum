@@ -37,9 +37,14 @@ def max_marks(list1):
 ![output](./img/max_marks1.jpg) 
 
 ## Output:
+Output: 1
 ![image](https://raw.githubusercontent.com/sudharsanakumar18/FindMaximum/main/python%203a%201.png)
 
+Output: 2
+
 ![image](https://raw.githubusercontent.com/sudharsanakumar18/FindMaximum/main/python%203a%202.png)
+
+Output: 3
 
 ![image](https://raw.githubusercontent.com/sudharsanakumar18/FindMaximum/main/python%203a%203.png)
 
